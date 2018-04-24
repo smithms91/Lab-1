@@ -41,7 +41,7 @@ body {
 .left__section {
   width: 45%;
   float: left;
-  margin: 0 20px;
+  margin: 0 55px;
 }
 
 .circles {
@@ -49,6 +49,7 @@ body {
   width: 600px;
   float: right;
 }
+
 .circle1 {
   position: absolute;
   width: 300px;
